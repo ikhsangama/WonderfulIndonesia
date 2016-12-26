@@ -154,7 +154,7 @@ public class WonderfulIndonesiaDetailFragment extends ibmmobileappbuilder.ui.Det
     @Override
     protected void onShow(DatanotesDSSchemaItem item) {
         // set the title for this fragment
-        getActivity().setTitle("Wonderfull Indonesia");
+        getActivity().setTitle("Wonderful Indonesia");
     }
     @Override
     public void onShare() {
