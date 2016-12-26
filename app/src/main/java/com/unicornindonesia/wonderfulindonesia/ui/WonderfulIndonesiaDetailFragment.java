@@ -37,8 +37,8 @@ public class WonderfulIndonesiaDetailFragment extends ibmmobileappbuilder.ui.Det
 
     private TextToSpeech initTextToSpeechService(){
         TextToSpeech service = new TextToSpeech();
-        String username = "b79b07b3-3e60-41c4-99ac-8f81467222ee";
-        String password = "DrMNemDDn5cO";
+        String username = "<>";
+        String password = "<>";
         service.setUsernameAndPassword(username, password);
         return service;
     }
